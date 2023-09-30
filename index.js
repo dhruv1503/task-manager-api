@@ -26,6 +26,7 @@ app.get("/tasks/:id", (request, response) => {
     const filteredTask = tasksData.find((task) => (parseInt(task.id) === parseInt(id)));
     console.log(filteredTask)
     return response.status(200).json({ data: filteredTask })
+    
 })
 
 app.post("/tasks", (request, response) => {
