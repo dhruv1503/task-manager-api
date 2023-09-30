@@ -15,20 +15,6 @@
     },
     {
         "id": 3,
-        "title": "test",
-        "description": "test description",
-        "priority": "high",
-        "completed": false
-    },
-    {
-        "id": 4,
-        "title": "test",
-        "description": "test description",
-        "priority": "high",
-        "completed": false
-    },
-    {
-        "id": 5,
         "title": "Eat fruits",
         "description": "1 apple 200 frams strawberries",
         "priority": "medium",
