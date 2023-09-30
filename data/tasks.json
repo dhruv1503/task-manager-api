@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Pay Electricity bills",
+        "description": "Due date is in next two days.",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "id": 2,
+        "title": "Change Task",
+        "description": "Put request",
+        "priority": "high",
+        "completed": false
+    },
+    {
+        "id": 3,
+        "title": "Eat fruits",
+        "description": "1 apple 200 frams strawberries",
+        "priority": "medium",
+        "completed": false
+    }
+]
